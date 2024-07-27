@@ -44,14 +44,14 @@
     <!-- Our Story Section -->
     <section id="our-story">
         <h2>Our Story</h2>
-        <p>Farhaan's Global Harmony Theater was born out of a passion for the performing arts and a commitment to fostering cultural understanding. Our founder, Farhaan, envisioned a space where diverse voices could come together to create powerful theatrical experiences.</p>
+        <p>Farhaan's Global Harmony Theater was born out of a passion for the performing arts and a commitment to fostering cultural understanding. Our founder, Farhaan Siddiqui, envisioned a space where diverse voices could come together to create powerful theatrical experiences.</p>
     </section>
     
     <!-- Our Team Section -->
     <section id="our-team">
         <h2>Our Team</h2>
         <div class="team-member">
-            <img src="image0.png" alt="Farhaan Siddiqui">
+            <img src="image0.png" alt="Farhaan">
             <h3>Farhaan Siddiqui</h3>
             <p>Founder and Led Artistic Director</p>
         </div>
