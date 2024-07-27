@@ -28,7 +28,7 @@
             <li> Bridging Cultures: An Interactive Tale of Love and Tradition - 9/2/2024 at 5 PM
             <li> Bridging Cultures: An Interactive Tale of Love and Tradition - TBD
        
-    </section>
+ 
     <!-- About Upcoming Events -->
     <section id="aboutevent">
         <h2>About Upcoming Events</h2>
