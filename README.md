@@ -25,9 +25,8 @@
     <section id="events">
         <h2>Upcoming Events</h2>
         <ul>
-            <li>Event 1 - Date</li>
+            <li>Event 1 - Date<9/2/2024 at 5 PM>
             <li>Event 2 - Date</li>
-            <li>Event 3 - Date</li>
         </ul>
     </section>
     
