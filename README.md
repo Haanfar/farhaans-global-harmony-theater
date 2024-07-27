@@ -25,11 +25,15 @@
     <section id="events">
         <h2>Upcoming Events</h2>
         <ul>
-            <li>Event 1 - Date<9/2/2024 at 5 PM>
-            <li>Event 2 - Date</li>
-        </ul>
+            <li> Bridging Cultures: An Interactive Tale of Love and Tradition - 9/2/2024 at 5 PM
+            <li> Bridging Cultures: An Interactive Tale of Love and Tradition - TBD
+       
     </section>
-    
+    <!-- About Upcoming Events -->
+    <section id="aboutevent">
+        <h2>About Upcoming Events</h2>
+        <ul> South Asian play intergrated with American culture.
+        <ul> Live performance with Human-computer interaction and augmented reality.
     <!-- Call to Action Section -->
     <div class="cta-section">
         <a href="donate.html" class="cta-button">Donate</a>
@@ -49,7 +53,7 @@
         <div class="team-member">
             <img src="farhaan.jpg" alt="Farhaan">
             <h3>Farhaan</h3>
-            <p>Founder and Artistic Director</p>
+            <p>Founder and Led Artistic Director</p>
         </div>
         <!-- Add more team members as needed -->
     </section>
@@ -57,7 +61,7 @@
     <!-- Mission and Vision Section -->
     <section id="mission-vision">
         <h2>Mission and Vision</h2>
-        <p>Our mission is to celebrate diversity and cultural richness through the performing arts. We envision a world where the arts serve as a bridge, bringing together people of all backgrounds to share in the beauty of human expression.</p>
+        <p>Our mission is to celebrate diversity and cultural richness through the performing arts. We envision a world where the arts serve as a bridge, bringing together people of all backgrounds to share in the beauty of human expression and HCI.</p>
     </section>
     
     <!-- Current Season Section -->
@@ -72,16 +76,8 @@
         <h2>Event Calendar</h2>
         <iframe src="calendar-link" style="width:100%; height:600px;"></iframe>
     </section>
-    
-    <!-- Past Events Section -->
-    <section id="past-events">
-        <h2>Past Events</h2>
-        <ul>
-            <li>Past Event 1 - Date</li>
-            <li>Past Event 2 - Date</li>
-            <li>Past Event 3 - Date</li>
-        </ul>
-    </section>
+
+
     
     <!-- Volunteer Opportunities Section -->
     <section id="volunteer">
