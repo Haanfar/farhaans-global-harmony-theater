@@ -9,7 +9,7 @@
 <body>
     <!-- Hero Section -->
     <div class="hero-section">
-        <img src="logo.png" alt="Farhaan's Global Harmony Theater Logo">
+        <img src="Farhaan's Global Harmony Theater Logo.png" alt="Farhaan's Global Harmony Theater Logo">
         <h1>Welcome to Farhaan's Global Harmony Theater</h1>
         <p>Celebrating diversity and cultural richness through the performing arts</p>
         <a href="#about" class="cta-button">Learn More</a>
