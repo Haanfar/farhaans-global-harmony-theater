@@ -51,7 +51,7 @@
     <section id="our-team">
         <h2>Our Team</h2>
         <div class="team-member">
-            <img src="farhaan.jpg" alt="Farhaan">
+            <img src="image0.png" alt="Farhaan">
             <h3>Farhaan</h3>
             <p>Founder and Led Artistic Director</p>
         </div>
